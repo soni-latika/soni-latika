@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Latika👋</br>
 
-💻 Passionate SDET 12+ yrs Web | Api | Mobile  </br>
+💻 Passionate SDET 12+ yrs Web | API | Mobile  </br>
 🤖 AI-driven QA: Playwright, Appium, LLMs  </br>
 🚀 Building Scalable Frameworks  </br>
 👉 Learn. Test. Innovate </br>
